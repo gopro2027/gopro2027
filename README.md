@@ -2,7 +2,7 @@
 
 <a href="https://github.com/gopro2027/ParadiseGTA/blob/main/ParadiseGTA_optimized_2020/Mods.h#L12642">![image](https://github.com/user-attachments/assets/4a9cd0b3-ebab-4e96-a6e7-91f1708ddfa6)</a><br>
   
-> *Wizardry - Circa 2018*
+> *GTA V - Circa 2018*
 
 
 ## Repos
