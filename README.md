@@ -25,7 +25,7 @@
 
 ### Refs
 [![Static Badge](https://img.shields.io/badge/Youtube-green)](https://www.youtube.com/@gopro2027)
-[![Static Badge](https://img.shields.io/badge/VividAesthetic-Car_Parts-green)](https://vividaesthetic.com/)
+[![Static Badge](https://img.shields.io/badge/OASMan-Air_Suspension-green)](https://oasman.dev/)
 
 ##
 
