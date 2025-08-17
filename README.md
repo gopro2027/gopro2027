@@ -17,7 +17,7 @@
 ### Tinkering
 [![Static Badge](https://img.shields.io/badge/OASMan-C++/Embedded/ESP32/Android-green)](https://github.com/gopro2027/ArduinoAirSuspensionController)
 [![Static Badge](https://img.shields.io/badge/Lithophane-Python-green)](https://github.com/gopro2027/lithophane-keychain-maker)
-### Full Stack
+### Other
 
 [![Static Badge](https://img.shields.io/badge/Flask_Stripe_SPA-Python/Flask-green)](https://github.com/gopro2027/flask-stripe-spa)
 [![Static Badge](https://img.shields.io/badge/Minecraft_LTS-Java-green)](https://github.com/gopro2027/Minecraft-LTS-Launcher)
